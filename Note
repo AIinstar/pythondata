@@ -1,0 +1,4 @@
+#Git版本控制
+class  Animal():
+    def name(self):
+        print("啊手动阀是的")
